@@ -1,0 +1,15 @@
+In this assignment you will implement - the Delivery Order Management System -
+
+- You will take number of delivery orders
+
+- Perform Quick Sort to sort delivery orders by estimated time
+
+- Display sorted delivery orders
+
+- Search for delivery orders by recipient's name
+
+- Calculate and display total estimated time
+
+- Find and display the fastest and slowest delivery orders
+
+- Display delivery orders within a specific time range
